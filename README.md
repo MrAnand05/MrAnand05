@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anand Gupta
 - 👀 I’m interested in learning Azure
-- 📫 How to reach me @ anandguptastar@gmail.com
+- 📫 Reach me anandguptastar@gmail.com
 
 <!---
 MrAnand05/MrAnand05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
